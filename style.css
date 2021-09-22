@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Grechen Fuemen', cursive;
+    background: rgb(5, 255, 222);
+}
+
+.header_div
+{
+    background: blue;
+    color:cyan;
+}
+
+.header_div p{
+    font-family: 'Rubik Beastly', sans-serif;
+    color: cyan;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Lobster' sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:cyan;
+    bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(7, 11, 252);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px cyan;
+}
